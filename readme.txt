@@ -1,5 +1,3 @@
-Here is the professional README in English, structured to highlight the technical sophistication of your project to your professor.
-
 🚀 Distributed Task Execution System (Version 2)
 High-Performance Parallel & Multi-User Architecture
 1️⃣ Project Overview
